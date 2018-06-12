@@ -5,7 +5,7 @@ distributed artificial intelligence system, use to deal with datas distributely
 
 输入：twitter API提供的twitter记录数据，smartcare提供的用户使用twitter记录数据。具体格式参考121数据库中表tweets
 
-输出：机器学习需要的统计向量数据。具体格式参考121数据库中表record_others
+输出：机器学习需要的统计向量数据。具体格式参考121数据库中表feature_vector
 
 接口：互联网获取twitter记录，局域网获取smartcare数据记录，生成的统计向量保存在121数据库服务器上
 
