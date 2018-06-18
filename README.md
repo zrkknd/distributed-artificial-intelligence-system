@@ -9,7 +9,7 @@ distributed artificial intelligence system, use to deal with datas distributely
 
 接口：互联网获取twitter记录，局域网获取smartcare数据记录，生成的统计向量保存在121数据库服务器上
 
-     不同终端之间采用socket局域网广播方式通信
+     不同终端之间采用socket方式通信
      
      不同进程之间采用fifo queue方式通信
      
